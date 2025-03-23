@@ -13,7 +13,7 @@ dataframe with sentiment analysis and additional features locally or save the ne
 
 ### Front end
 
-The web version of this app is already deployed and could be found by link `https://bohdan-markiv-hcss-assessment-front-end-front-end-hy23wp.streamlit.app/` .
+The web version of this app is already deployed and could be found by link `https://bohdan-markiv-hcss-assessment-front-end-qlquib.streamlit.app/` .
 For the local development you need to run in the terminal command `streamlit run front_end.py`, as all the graphs
 are currently saved in the file `front_end.py`. Currently, the data is taken from the saved csv file, as it allows for a fast load
 of data for the app, but in the future the whole pipeline could be combined - from getting the data, to showing it in the app.\
