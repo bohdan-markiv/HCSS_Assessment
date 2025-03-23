@@ -23,3 +23,8 @@ The app includes:
 - Correlation & sentiment analysis
 - Frequency trends over time
 - Speaker-level and party-based visual insights
+
+# Further developments
+
+In the document `database_proposal.sql` you could find the SQL schema for the data warehousing which could be used in the
+future for a better data engineering.
