@@ -10,6 +10,8 @@ Firstly, please run the following script to get all the necessary dependencies f
 After the installation is successful, please navigate towards the create_data.py. By default, this project already has the
 csv file with necessary data in the data folder for the fast work with it, however, in case you want to get the
 dataframe with sentiment analysis and additional features locally or save the new csv with new key words, please make use of the function `get_data`.
+For the correct data processing work it is assumed that the data `year_2022/txt` folder with the folder 2022, which could be directly copied from the file
+`ParlaMint-NL-en.ana.tgz/ParlaMint-NL-en.txt/2022`.
 
 ### Front end
 
